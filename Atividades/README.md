@@ -1,7 +1,7 @@
 # Lista de Atividades POO
 
 # Aluno
-* `Nelson Bellincanta Filho` 
+* `Lucas Fernando Pinto` 
 
 # Curso
 * `TADS`
@@ -10,6 +10,6 @@
 
 ## Atividades 
 
-[[Atv01](https://github.com/bellincanta/2024TADS-POO/tree/main/Atividades/Atv01)]
+[[Atv01](https://github.com/lucasfernandopinto/TADS-POO/tree/main/Atividades/Atv01)]
 
-[[Atv02](https://github.com/bellincanta/2024TADS-POO/tree/main/Atividades/Atv02)]
+[[Atv02](https://github.com/lucasfernandopinto/TADS-POO/tree/main/Atividades/Atv02)]
